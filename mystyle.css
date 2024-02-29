@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(0, 0, 0);
+   }
+   h1.uno{
+    color: rgb(101, 0, 121);
+    text-align: center;
+   }
+   h1.dos{
+    color: rgb(240, 157, 5);
+    text-align: center;
+   }
+   h1.tres{
+    color: rgb(104, 221, 50);
+    text-align: center;
+   }
+   h1.cuatro{
+    color: rgb(218, 18, 151);
+    text-align: center;
+   }
+   h1.cinco{
+    color: rgb(32, 168, 247);
+    text-align: center;
+   }
+   h1 {
+    color: navy;
+    margin-left: 20px;
+   }
